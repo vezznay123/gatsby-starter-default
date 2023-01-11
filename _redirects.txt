@@ -1,0 +1,28 @@
+/en-ae/*  /:splat
+/en-au/*  /:splat
+/en-br/*  /:splat
+/en-de/*  /:splat
+/en-dk/*  /:splat
+/en-de/*  /:splat
+/en-fr/*  /:splat
+/en-hk/*  /:splat
+/en-hk/*  /:splat
+/en-il/*  /:splat
+/en-in/*  /:splat
+/en-it/*  /:splat
+/en-jp/*  /:splat
+/en-kr/*  /:splat
+/en-mx/*  /:splat
+/en-nl/*  /:splat
+/en-sg/*  /:splat
+/en-za/*  /:splat
+/es/*  /:splat
+/es-es/*  /:splat
+/it-it/*  /:splat
+/it/*  /:splat
+/en-jp/*  /:splat
+/en-es/*  /:splat
+/en-mx/*  /:splat
+
+
+
